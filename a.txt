@@ -6,3 +6,4 @@ Line added on the main branch
 
 Line added on the feature branch
  feature-update
+Line from main branch

@@ -1,2 +1,6 @@
 A4 File
+<<<<<<< HEAD
 First Change
+=======
+Modified in second
+>>>>>>> second

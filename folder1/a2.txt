@@ -1,6 +1,10 @@
 A2 Initial
 <<<<<<< HEAD
+<<<<<<< HEAD
 Master Change
 =======
 First Change
 >>>>>>> first
+=======
+Modified in second
+>>>>>>> second

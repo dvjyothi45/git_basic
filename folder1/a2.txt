@@ -1,2 +1,6 @@
 A2 Initial
+<<<<<<< HEAD
 Master Change
+=======
+First Change
+>>>>>>> first

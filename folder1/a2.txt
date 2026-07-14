@@ -1,2 +1,14 @@
 A2 Initial
+<<<<<<< HEAD
 Modified in second
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Master Change
+=======
+First Change
+>>>>>>> first
+=======
+Modified in second
+>>>>>>> second
+>>>>>>> fourth
